@@ -1,0 +1,1 @@
+# listaexercicio-tec-ia
