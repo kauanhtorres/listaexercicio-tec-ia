@@ -24,7 +24,7 @@ elif porcentagem <= 50:
 else:
     parecer = "RECUSADO"
 
-# 4. Exibindo o resultado formatado com f-strings
+# 4. Exibindo o resultado formatado 
 print("\n--- RESULTADO DA ANÁLISE ---")
 print(f"Empresa: {nome_empresa}")
 print(f"Faturamento Mensal: R$ {faturamento:.2f}")
